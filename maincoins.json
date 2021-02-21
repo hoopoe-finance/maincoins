@@ -1,8 +1,10 @@
 {
     "0x016a7bD219A11cfFd0d6a749121977C707812ab4" : {
-        "name": "HOOP"
+        "name": "HOOP",
+        "logo": "https://raw.githubusercontent.com/hoopoe-finance/maincoins/main/hoop.png"
     },
     "0xFc588255B18CbD36a3853E7424696FD3091bd380" : {
-        "name": "ETHG"
+        "name": "ETHG",
+        "logo": "https://raw.githubusercontent.com/hoopoe-finance/maincoins/main/ethg-eth.png"
     }
 }
