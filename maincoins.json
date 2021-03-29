@@ -1,10 +1,28 @@
 {
     "0x016a7bD219A11cfFd0d6a749121977C707812ab4" : {
-        "name": "HOOP",
-        "logo": "https://raw.githubusercontent.com/hoopoe-finance/maincoins/main/hoop.png"
+        "address": "0x016a7bD219A11cfFd0d6a749121977C707812ab4",
+        "symbol": "HOOP",
+        "logo": "https://raw.githubusercontent.com/hoopoe-finance/maincoins/main/hoop.svg",
+        
     },
     "0xFc588255B18CbD36a3853E7424696FD3091bd380" : {
-        "name": "ETHG",
-        "logo": "https://raw.githubusercontent.com/hoopoe-finance/maincoins/main/ethg-eth.png"
+        "address": "0xFc588255B18CbD36a3853E7424696FD3091bd380",
+        "symbol": "ETHXAU",
+        "logo": "https://raw.githubusercontent.com/hoopoe-finance/maincoins/main/ethxau.svg"
+    },
+    "0x30F9a578D793Dca3C97eD5aAAeFFE241e107c136" : {
+        "address": "0x30F9a578D793Dca3C97eD5aAAeFFE241e107c136",
+        "symbol": "ETHXAG,
+        "logo": "https://raw.githubusercontent.com/hoopoe-finance/maincoins/main/ethxag.svg"
+    },
+    "0xf5331367f5baB29711B9D3662B82c16931E9F5d3" : {
+        "address": "0xf5331367f5baB29711B9D3662B82c16931E9F5d3",
+        "symbol": "USDH",
+        "logo": "https://raw.githubusercontent.com/hoopoe-finance/maincoins/main/usdh.svg"
+    },
+    "0x0" : {
+        "address": "0x0",
+        "symbol": "ETH",
+        "logo": "https://raw.githubusercontent.com/hoopoe-finance/maincoins/main/eth.svg"
     }
 }
