@@ -20,7 +20,7 @@
         "logo": "https://raw.githubusercontent.com/hoopoe-finance/maincoins/main/usdh.svg"
     },
     "0x0" : {
-        "address": "0x0",
+        "address": "0x0000000000000000000000000000000000000000",
         "symbol": "ETH",
         "logo": "https://raw.githubusercontent.com/hoopoe-finance/maincoins/main/eth.svg"
     }
